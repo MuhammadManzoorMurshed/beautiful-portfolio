@@ -28,4 +28,4 @@ A personal portfolio website template built with HTML and CSS.
 - **Resume** - Education and work experience
 - **Footer** - Contact form and social links
 
-[Live Demo]
+[Live Demo] (https://muhammadmanzoormurshed.github.io/beautiful-portfolio/)
